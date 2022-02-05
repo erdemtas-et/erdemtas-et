@@ -1,10 +1,5 @@
 - 👋 Hello! I am **Erdem**. I am a software developer for some time.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Node.JS and React
+- 📫 How to reach me https://erdemtas.dev or erdemtas.dev@gmail.com
 
-<!---
-erdemtas-et/erdemtas-et is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
