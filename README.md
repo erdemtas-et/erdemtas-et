@@ -1,5 +1,5 @@
-- 👋 Hello! I am **Erdem**. I am a software developer for some time.
-- 👀 I’m interested in Software Development
+- 👋 Hello! I am **Erdem**. I am non-stop learner in software development. 
 - 🌱 I’m currently learning Node.JS and React
-- 📫 How to reach me https://erdemtas.dev or erdemtas.dev@gmail.com
+- 📫 How to reach me ->  https://erdemtas.dev or erdemtas.dev@gmail.com
+
 
