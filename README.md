@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning Node.JS and React. 
 - 📫 How to reach me ->  https://erdemtas.dev or erdemtas.dev@gmail.com
 
-
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erdemtas-et)](https://git.io/streak-stats)
+  </p>
 
 
   
