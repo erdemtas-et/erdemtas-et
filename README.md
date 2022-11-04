@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Erdem.</h1>
-<p align="left">I can describe myself as non-stop learner. After I have studied Econometrics for 4 years, I wanted to pursue a more challenging career in 2015. I got into Management Information Systems degree and graduated in 2020. Programming, software, briefly every kind of technology is my passion. I love to be able to work in this career field.</p>
+<p align="left">I can describe myself as non-stop learner. After I have studied Econometrics for 4 years, I wanted to pursue a more challenging career in 2015. I got into Management Information Systems degree and graduated in 2020. Programming, software, briefly every kind of technology is my passion. I love to be able to work in this field.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdemtas-et&label=Profile%20views&color=0e75b6&style=flat" alt="erdemtas-et" /> </p>
 
