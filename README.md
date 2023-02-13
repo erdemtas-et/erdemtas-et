@@ -8,8 +8,6 @@
 
 - 🤝 I’m looking for help with **mentorship.**
 
-- I have known as **CoderTheGray** on social media.
-
 - 👨‍💻 All of my projects are available at [https://erdemtas.dev](https://erdemtas.dev)
 
 - 📫 How to reach me **erdemtas.dev@gmail.com**
