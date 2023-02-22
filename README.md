@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Advanced Swift**
 
-- 🤝 I’m looking for help with **mentorship.**
-
 - 👨‍💻 All of my projects are available at [https://erdemtas.dev](https://erdemtas.dev)
 
 - 📫 How to reach me **erdemtas.dev@gmail.com**
