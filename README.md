@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdemtas-et&label=Profile%20views&color=0e75b6&style=flat" alt="erdemtas-et" /> </p>
 
-- 🔭 I’m currently working as an **Indie iOS Developer.**
+- 🔭 I’m currently working as an **Indie / Freelance iOS Developer.**
 
-- 🌱 I’m currently learning **Advanced Swift**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 👨‍💻 All of my projects are available at [https://erdemtas.dev](https://erdemtas.dev)
 
