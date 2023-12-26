@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdemtas-et&label=Profile%20views&color=0e75b6&style=flat" alt="erdemtas-et" /> </p>
 
-- 🔭 I’m currently working as an **Indie / Freelance iOS Developer.**
+- 🔭 I’m currently working as an **Mobile Application Developer.**
 
 - 📫 How to reach me **erdemtas.dev@gmail.com**
 
