@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdemtas-et&label=Profile%20views&color=0e75b6&style=flat" alt="erdemtas-et" /> </p>
 
-- 🔭 I’m currently working as **Mobile Application Developer.**
+- 🔭 I’m currently working as **Software Engineer at Wolt.**
 
-- 📫 How to reach me **erdemtas.dev@gmail.com**
+- 📫 How to reach me **erdemtas.ns@gmail.com**
 
 <h3 align="left">Connect</h3>
 <p align="left">
