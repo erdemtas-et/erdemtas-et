@@ -21,7 +21,7 @@ I am a passionate **Mobile Software Engineer** based in Helsinki, Finland, dedic
 *   **Languages:** Kotlin, Swift, Java, TypeScript
 *   **Android Ecosystem:** Jetpack Compose, Coroutines, Dagger/Hilt, Clean Architecture, App Attestation
 *   **iOS Ecosystem:** UIKit, SwiftUI, Combine, Concurrency, Memory Management
-*   **Cross-Platform & Tools:** React Native, Expo, Git, CI/CD Pipelines
+*   **Cross-Platform & Tools:** Flutter
 
 ---
 
